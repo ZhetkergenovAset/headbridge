@@ -1,0 +1,12 @@
+home/work2/FileWrite.java
+ home.work2.FileWrite
+home/work2/Formatter.java
+ home.work2.Formatter
+home/work2/FileRead.java
+ home.work2.FileRead
+home/work2/FormatWork.java
+ home.work2.FormatWork
+home/work2/TrimAllSpaceFormat.java
+ home.work2.TrimAllSpaceFormat
+home/work2/Main.java
+ home.work2.Main
